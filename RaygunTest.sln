@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaygunTest", "RaygunTest\RaygunTest.csproj", "{0B020A3C-24E4-4B2C-89B2-08B52A41A6AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B020A3C-24E4-4B2C-89B2-08B52A41A6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B020A3C-24E4-4B2C-89B2-08B52A41A6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B020A3C-24E4-4B2C-89B2-08B52A41A6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B020A3C-24E4-4B2C-89B2-08B52A41A6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52390CB-EE33-456C-BD8A-20B2B2910FF5}
+	EndGlobalSection
+EndGlobal
